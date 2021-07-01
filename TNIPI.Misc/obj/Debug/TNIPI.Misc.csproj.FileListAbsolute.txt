@@ -1,0 +1,16 @@
+c:\schlumberger\petrel 2009\Extensions\TNIPI.Misc.dll
+c:\schlumberger\petrel 2009\Extensions\TNIPI.Misc.pdb
+D:\PROJECT\Ocean 2009\TNIPI.Misc\TNIPI.Misc\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2009\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.dll
+D:\PROJECT\Ocean 2009\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.pdb
+C:\PROJECT\Ocean 2009\TNIPI.Misc\TNIPI.Misc\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECT\Ocean 2009\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.dll
+C:\PROJECT\Ocean 2009\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.pdb
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Misc.dll
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Misc.pdb
+C:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.dll
+C:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.dll
+D:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Debug\TNIPI.Misc.pdb

@@ -1,0 +1,5 @@
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Misc.dll
+c:\schlumberger\petrel 2010\Extensions\TNIPI.Misc.pdb
+D:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Release\TNIPI.Misc.dll
+D:\PROJECT\Ocean 2010\TNIPI.Misc\TNIPI.Misc\obj\Release\TNIPI.Misc.pdb
